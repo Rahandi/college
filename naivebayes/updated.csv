@@ -1,0 +1,475 @@
+,kalimat,intent,intent_num
+0,halo,greetings,1
+1,selamat pagi,greetings,1
+2,selamat siang,greetings,1
+3,selamat sore,greetings,1
+4,selamat malam,greetings,1
+5,permisi,greetings,1
+6,apakah ini contact person schematics,greetings,1
+7,apakah ini kontak person schematics,greetings,1
+8,halo selamat pagi,greetings,1
+9,halo selamat sore,greetings,1
+10,halo selamat siang,greetings,1
+11,halo selamat malam,greetings,1
+12,perkenalkan nama saya saya ingin menanyakan sesuatu,greetings,1
+13,perkenalkan saya dari tim dan sekolah ingin menanyakan sesuatu,greetings,1
+14,siang,greetings,1
+15,pagi,greetings,1
+16,sore,greetings,1
+17,malam,greetings,1
+18,permisi apakah benar ini dari schematics,greetings,1
+19,halo apa kabar,greetings,1
+20,bagaimana kabar anda,greetings,1
+21,apa benar ini schematics,greetings,1
+22,permisi apa benar ini schematics,greetings,1
+23,apakah benar ini narahubung,greetings,1
+24,saya ingin bertanya sesuatu,greetings,1
+25,ada yang ingin saya tanyakan,greetings,1
+26,apa kabar,greetings,1
+27,siapa anda,greetings,1
+28,apa sih schematics itu,what is schematics,2
+29,terdiri dari apa saja kegiatan schematics,what is schematics,2
+30,apa saja event yang ada di schematics,what is schematics,2
+31,coba ceritakan apa saja isinya schematics,what is schematics,2
+32,schematics,what is schematics,2
+33,siapa yang mengadakan event schematics,what is schematics,2
+34,schematics diadakan oleh siapa,what is schematics,2
+35,mengapa schematics diadakan,what is schematics,2
+36,event apa saja yang ada di schematics,what is schematics,2
+37,event nya schematics,what is schematics,2
+38,kegiatannya schematics apa saja sih,what is schematics,2
+39,kegiatannya schematics apa aja sih,what is schematics,2
+40,apa itu schematics,what is schematics,2
+41,coba ceritakan tentang schematics,what is schematics,2
+42,mohon jelaskan pada saya tentang schematics,what is schematics,2
+43,jelaskan kepada saya apa itu schematics dong,what is schematics,2
+44,ceritakan schematics dong,what is schematics,2
+45,event schematics,what is schematics,2
+46,sebenarnya acara apa schematics ini,what is schematics,2
+47,nlc,what is nlc,3
+48,national logic competition,what is nlc,3
+49,national logic competitions,what is nlc,3
+50,apa itu nlc,what is nlc,3
+51,apa itu national logic competition,what is nlc,3
+52,definisikan nlc,what is nlc,3
+53,definisikan national logic competition,what is nlc,3
+54,apa sih nlc itu,what is nlc,3
+55,apa sih national logic competition itu,what is nlc,3
+56,lomba apa sih nlc itu,what is nlc,3
+57,lomba apa sih national logic competition itu,what is nlc,3
+58,apa yang dilombakan di nlc,what is nlc,3
+59,apa yang dilombakan di national logic competition,what is nlc,3
+60,lomba yang seperti apa sih nlc itu,what is nlc,3
+61,lomba yang seperti apa sih national logic competition itu,what is nlc,3
+62,jelaskan pada saya nlc,what is nlc,3
+63,jelaskan pada saya national logic competiion,what is nlc,3
+64,mohon terangkan nlc,what is nlc,3
+65,mohon terangkan national logic competition,what is nlc,3
+66,bisa kah anda jelaskan pada saya tentang nlc,what is nlc,3
+67,bisa kah anda jelaskan pada saya tentang national logic competition,what is nlc,3
+68,apa yang dilombakan di nlc,what is nlc,3
+69,apa yang dilombakan di national logic competition,what is nlc,3
+70,npc,what is npc,4
+71,national programming contest,what is npc,4
+72,national programming contests,what is npc,4
+73,apa itu npc,what is npc,4
+74,apa itu national programming contest,what is npc,4
+75,definisikan npc,what is npc,4
+76,definisikan national programming contest,what is npc,4
+77,apa sih npc itu,what is npc,4
+78,apa sih national programming contest itu,what is npc,4
+79,lomba apa sih npc itu,what is npc,4
+80,lomba apa sih national programming contest itu,what is npc,4
+81,apa yang dilombakan di npc,what is npc,4
+82,apa yang dilombakan di national programming contest,what is npc,4
+83,lomba yang seperti apa sih npc itu,what is npc,4
+84,lomba yang seperti apa sih national programming contest itu,what is npc,4
+85,jelaskan pada saya npc,what is npc,4
+86,jelaskan pada saya national programming contest,what is npc,4
+87,mohon terangkan npc,what is npc,4
+88,mohon terangkan national programming contest,what is npc,4
+89,bisa kah anda jelaskan pada saya tentang npc,what is npc,4
+90,bisa kah anda jelaskan pada saya tentang national programming contest,what is npc,4
+91,apa yang dilombakan di npc,what is npc,4
+92,apa yang dilombakan di national programming contest,what is npc,4
+93,kenapa harus ikut nlc,benefit nlc,5
+94,kenapa harus ikut national logic competition,benefit nlc,5
+95,mengapa harus ikut nlc,benefit nlc,5
+96,mengapa harus ikut national logic competition,benefit nlc,5
+97,apa yang menarik dari nlc,benefit nlc,5
+98,apa yang menarik dari national logic competition,benefit nlc,5
+99,apa keuntungan dari nlc,benefit nlc,5
+100,apa keuntungan dari national logic competition,benefit nlc,5
+101,apa untungnya ikut nlc,benefit nlc,5
+102,apa untungnya ikut national logic competition,benefit nlc,5
+103,mengapa nlc menguntungkan bagi saya,benefit nlc,5
+104,mengapa national logic competition menguntungkan bagi saya,benefit nlc,5
+105,apa yang bisa saya dapatkan dari nlc,benefit nlc,5
+106,apa yang bisa saya dapatkan dari national logic competition,benefit nlc,5
+107,jelaskan pada saya apa keuntungan mengikuti nlc,benefit nlc,5
+108,jelaskan pada saya apa keuntungan mengikuti national logic competition,benefit nlc,5
+109,jelaskan mengapa saya harus ikut nlc,benefit nlc,5
+110,jelaskan mengapa saya harus ikut national logic competition,benefit nlc,5
+111,terangkan pada saya benefit mengikuti nlc,benefit nlc,5
+112,terangkan pada saya benefit mengikuti national logic competition,benefit nlc,5
+113,keuntungan nlc,benefit nlc,5
+114,keuntungan national logic competition,benefit nlc,5
+115,benefit nlc,benefit nlc,5
+116,benefit national logic competition,benefit nlc,5
+117,kenapa harus ikut npc,benefit npc,6
+118,kenapa harus ikut national programming contest,benefit npc,6
+119,mengapa harus ikut npc,benefit npc,6
+120,mengapa harus ikut national programming contest,benefit npc,6
+121,apa yang menarik dari npc,benefit npc,6
+122,apa yang menarik dari national programming contest,benefit npc,6
+123,apa keuntungan dari npc,benefit npc,6
+124,apa keuntungan dari national programming contest,benefit npc,6
+125,apa untungnya ikut npc,benefit npc,6
+126,apa untungnya ikut national programming contest,benefit npc,6
+127,mengapa npc menguntungkan bagi saya,benefit npc,6
+128,mengapa national programming contest menguntungkan bagi saya,benefit npc,6
+129,apa yang bisa saya dapatkan dari npc,benefit npc,6
+130,apa yang bisa saya dapatkan dari national programming contest,benefit npc,6
+131,jelaskan pada saya apa keuntungan mengikuti npc,benefit npc,6
+132,jelaskan pada saya apa keuntungan mengikuti national programming contest,benefit npc,6
+133,jelaskan mengapa saya harus ikut npc,benefit npc,6
+134,jelaskan mengapa saya harus ikut national programming contest,benefit npc,6
+135,terangkan pada saya benefit mengikuti npc,benefit npc,6
+136,terangkan pada saya benefit mengikuti national programming contest,benefit npc,6
+137,keuntungan npc,benefit npc,6
+138,keuntungan national programming contest,benefit npc,6
+139,benefit npc,benefit npc,6
+140,benefit national programming contest,benefit npc,6
+141,bagaimana sih contoh soal nlc,soal nlc,7
+142,bagaimana sih contoh soal national programming contest,soal nlc,7
+143,kasih contoh soal nlc dong,soal nlc,7
+144,kasih contoh soal national logic competition dong,soal nlc,7
+145,kisi-kisi soal nlc,soal nlc,7
+146,kisi-kisi soal national logic competition,soal nlc,7
+147,kisi kisi soal nlc,soal nlc,7
+148,kisi kisi soal national logic competition,soal nlc,7
+149,kasih contoh kisi-kisi soal nlc dong,soal nlc,7
+150,kasih contoh kisi-kisi soal national logic competition dong,soal nlc,7
+151,apa aja yang ditanyakan di nlc,soal nlc,7
+152,apa aja yang ditanyakan di  national logic competition,soal nlc,7
+153,bagaimana sih bentuk soal nlc,soal nlc,7
+154,bagaimana sih bentuk soal national logic competition,soal nlc,7
+155,jenis soal nlc,soal nlc,7
+156,jenis soal national logic competition,soal nlc,7
+157,Jenis-jenis soal nlc,soal nlc,7
+158,Jenis-jenis soal national logic competition,soal nlc,7
+159,Soal-soal nlc,soal nlc,7
+160,Soal-soal national logic competition,soal nlc,7
+161,soal nlc,soal nlc,7
+162,soal national logic competition,soal nlc,7
+163,saya ingin ikut npc tapi tidak bisa programming,cannot code yet,8
+164,saya ingin ikut national programming contest tapi tidak bisa programming,cannot code yet,8
+165,ingin ikut npc belum bisa programming,cannot code yet,8
+166,ingin ikut national programming contest belum bisa programming,cannot code yet,8
+167,belum mengerti bahasa pemrograman,cannot code yet,8
+168,saya belum pernah programming,cannot code yet,8
+169,tidak mengerti programming,cannot code yet,8
+170,apakah hanya yang bisa programming saya yang bisa ikut,cannot code yet,8
+171,tidak mengerti bahasa pemrograman tapi ingin ikut national programming contest npc,cannot code yet,8
+172,apakah nanti disediakan tutorial,cannot code yet,8
+173,apakah nanti diajarkan programming oleh schematics npc,cannot code yet,8
+174,bagaimana jika belum bisa melakukan pemrograman,cannot code yet,8
+175,apakah harus bisa programming baru boleh ikut npc,cannot code yet,8
+176,apakah harus bisa programming baru boleh ikut national programming contest,cannot code yet,8
+177,apakah newbie bisa ikut npc,cannot code yet,8
+178,apakah newbie bisa ikutan national programming contest,cannot code yet,8
+179,apakah npc bisa diikuti yang baru belajar pemrograman,cannot code yet,8
+180,apakah national programming contest bisa diikuti yang baru belajar pemrograman,cannot code yet,8
+181,baru belajar programming,cannot code yet,8
+182,baru belajar bahasa,cannot code yet,8
+183,baru belajar pemrograman,cannot code yet,8
+184,baru belajar coding,cannot code yet,8
+185,belum bisa coding,cannot code yet,8
+186,belum pernah coding sebelumnya,cannot code yet,8
+187,saya belum pernah coding sebelumnya apakah bisa ikut npc,cannot code yet,8
+188,saya belum jago pemrograman apakah saya bisa ikut npc,cannot code yet,8
+189,apakah saya bisa ikut national programming contest padahal saya belum pernah coding sebelumnya,cannot code yet,8
+190,apakah national programming contest hanya untuk yang jago coding saja,cannot code yet,8
+191,bagaimana jika saya belum perna coding sama sekali,cannot code yet,8
+192,apakah saya punya kesempatan menang jika belum bisa coding,cannot code yet,8
+193,apakah lombanya npc susah,cannot code yet,8
+194,apakah lomba national programming contest susah,cannot code yet,8
+195,kapan nlc diadakan,where when nlc,9
+196,kapan national logic competition diadakan,where when nlc,9
+197,dimana nlc diadakan,where when nlc,9
+198,dimana national logic competition diadakan,where when nlc,9
+199,kapan dan dimana nlc diadakan,where when nlc,9
+200,kapan dan dimana national logic competition diadakan,where when nlc,9
+201,kapan nlc dihelat,where when nlc,9
+202,dimana nlc dihelat,where when nlc,9
+203,dimana national logic competition dihelat,where when nlc,9
+204,apakah nlc diadakan di its,where when nlc,9
+205,apakah national logic competition diadakan di its,where when nlc,9
+206,apakah nlc di adakan di teknik informatika its,where when nlc,9
+207,apakah national logic competition diadakan di teknik informatika its,where when nlc,9
+208,apakah national logic competition diadakan di kota saya,where when nlc,9
+209,apakah national logic competition diadakan di kota surabaya,where when nlc,9
+210,apakah national logic competition diadakan di kota jakarta,where when nlc,9
+211,apakah national logic competition diadakan di kota medan,where when nlc,9
+212,apakah national logic competition diadakan di kota padang,where when nlc,9
+213,apakah national logic competition diadakan di kota makassar,where when nlc,9
+214,waktu nlc diadakan,where when nlc,9
+215,waktu national logic competition diadakan,where when nlc,9
+216,tanggal berapa nlc diadakan,where when nlc,9
+217,tanggal berapa national logic competition diadakan,where when nlc,9
+218,hari apa nlc mulainya,where when nlc,9
+219,hari apa nlc mulainya,where when nlc,9
+220,pada hari apa nlc diadakan,where when nlc,9
+221,pada hati apa national logic competition dihelat,where when nlc,9
+222,kapan npc diadakan,where when npc,10
+223,kapan national programming contest diadakan,where when npc,10
+224,dimana npc diadakan,where when npc,10
+225,dimana national programming contest diadakan,where when npc,10
+226,kapan dan dimana npc diadakan,where when npc,10
+227,kapan dan dimana national programming contest diadakan,where when npc,10
+228,kapan npc dihelat,where when npc,10
+229,dimana npc dihelat,where when npc,10
+230,dimana national programming contest dihelat,where when npc,10
+231,apakah npc diadakan di its,where when npc,10
+232,apakah national programming contest diadakan di its,where when npc,10
+233,apakah npc di adakan di teknik informatika its,where when npc,10
+234,apakah national programming contest diadakan di teknik informatika its,where when npc,10
+235,apakah national programming contest diadakan di kota saya,where when npc,10
+236,apakah national programming contest diadakan di kota surabaya,where when npc,10
+237,apakah national programming contest diadakan di kota jakarta,where when npc,10
+238,apakah national programming contest diadakan di kota medan,where when npc,10
+239,apakah national programming contest diadakan di kota padang,where when npc,10
+240,apakah national programming contest diadakan di kota makassar,where when npc,10
+241,waktu npc diadakan,where when npc,10
+242,waktu national programming contest diadakan,where when npc,10
+243,tanggal berapa npc diadakan,where when npc,10
+244,tanggal berapa national programming contest diadakan,where when npc,10
+245,hari apa national programming contest  mulainya,where when npc,10
+246,hari apa npc mulainya,where when npc,10
+247,pada hari apa npc diadakan,where when npc,10
+248,pada hari apa national programming contest dihelat,where when npc,10
+249,bagaimana cara daftar nlc,pendaftaran nlc npc,11
+250,bagaimana cara daftar npc,pendaftaran nlc npc,11
+251,bagaimana cara daftar national logic competition,pendaftaran nlc npc,11
+252,bagaimana cara daftar national programming contest,pendaftaran nlc npc,11
+253,apa yang harus saya lakukan jika ingin mendaftar,pendaftaran nlc npc,11
+254,daftar nlc,pendaftaran nlc npc,11
+255,daftar npc,pendaftaran nlc npc,11
+256,mendaftar national logic competition,pendaftaran nlc npc,11
+257,mendaftar national programming contest,pendaftaran nlc npc,11
+258,apa yang bisa saya lakukan untuk mendaftar,pendaftaran nlc npc,11
+259,informasi pendaftaran,pendaftaran nlc npc,11
+260,boleh saya minta informasi pendaftarannya,pendaftaran nlc npc,11
+261,dimana saya bisa mendaftar untuk ikut,pendaftaran nlc npc,11
+262,saya ingin ikut lombanya,pendaftaran nlc npc,11
+263,saya ingin ikut,pendaftaran nlc npc,11
+264,Boleh saya minta form pendaftarannya npc,pendaftaran nlc npc,11
+265,boleh saya minta form pendaftarannya nlc,pendaftaran nlc npc,11
+266,boleh saya minta form pendaftarannya nlc npc,pendaftaran nlc npc,11
+267,prosedur pendaftaran nlc,pendaftaran nlc npc,11
+268,prosedur pendaftaran npc,pendaftaran nlc npc,11
+269,saya ingin minta pendaftaran nlc,pendaftaran nlc npc,11
+270,saya ingin minta prosedur pendaftaran npc,pendaftaran nlc npc,11
+271,bagaimana pendaftarannya national logic competition,pendaftaran nlc npc,11
+272,sampai kapan pendaftaran nlc ditutup,timeline nlc,12
+273,sampai kapan pendaftaran national logic competition ditutup,timeline nlc,12
+274,boleh saya minta jadwal pendaftaran nlc,timeline nlc,12
+275,boleh saya minta jadwal pendaftaran national logic competition,timeline nlc,12
+276,jadwal nlc,timeline nlc,12
+277,jadwal national logic competition,timeline nlc,12
+278,pendaftarannya nlc sampai kapan ya,timeline nlc,12
+279,pendaftarannya national logic competition sampai kapan ya,timeline nlc,12
+280,kapan pendaftarannya nlc ditutup,timeline nlc,12
+281,kapan pendaftarannya nlc dibuka,timeline nlc,12
+282,saya minta timelne nlc dong,timeline nlc,12
+283,saya minta timeline national logic competition dong,timeline nlc,12
+284,timeline nlc,timeline nlc,12
+285,timeline national logic competition,timeline nlc,12
+286,boleh saya minta timeline national logic competition,timeline nlc,12
+287,boleh saya minta timeline nlc,timeline nlc,12
+288,sampai kapan pendaftaran npc ditutup,timeline npc,13
+289,sampai kapan pendaftaran national programming contest ditutup,timeline npc,13
+290,boleh saya minta jadwal pendaftaran npc,timeline npc,13
+291,boleh saya minta jadwal pendaftaran national programming contest,timeline npc,13
+292,jadwal npc,timeline npc,13
+293,jadwal national programming contest,timeline npc,13
+294,pendaftarannya npc sampai kapan ya,timeline npc,13
+295,pendaftarannya national programming contest sampai kapan ya,timeline npc,13
+296,kapan pendaftarannya npc ditutup,timeline npc,13
+297,kapan pendaftarannya npc dibuka,timeline npc,13
+298,saya minta timelne npc dong,timeline npc,13
+299,saya minta timeline national programming contest dong,timeline npc,13
+300,timeline npc,timeline npc,13
+301,timeline national programming contest,timeline npc,13
+302,boleh saya minta timeline national programming contest,timeline npc,13
+303,boleh saya minta timeline npc,timeline npc,13
+304,berapa biaya pendaftaran nlc,biaya nlc,14
+305,boleh saya tanya harga pendaftaran national logic competition,biaya nlc,14
+306,berapa biaya pendaftaran national logic competition,biaya nlc,14
+307,berapa rupiah daftar nlc,biaya nlc,14
+308,berapa rupiah daftar national logic competition,biaya nlc,14
+309,harganya nlc berapa ya,biaya nlc,14
+310,harganya national logic competition berapa ya,biaya nlc,14
+311,berapa yang harus dibayar untuk daftar national logic competition,biaya nlc,14
+312,berapa yang harus dibayar untuk daftar nlc,biaya nlc,14
+313,biaya nlc,biaya nlc,14
+314,biaya national logic competition,biaya nlc,14
+315,harga nlc,biaya nlc,14
+316,harga national logic competition,biaya nlc,14
+317,berapa ratus ribu uang yang harus dibayarkan untuk nlc,biaya nlc,14
+318,berapa ratus ribu uang yang harus dibayarkan untuk national logic competition,biaya nlc,14
+319,berapa biaya pendaftaran npc,biaya npc,15
+320,boleh saya tanya harga pendaftaran national programming contest,biaya npc,15
+321,berapa biaya pendaftaran national programming contest,biaya npc,15
+322,berapa rupiah daftar npc,biaya npc,15
+323,berapa rupiah daftar national programming contest,biaya npc,15
+324,harganya npc berapa ya,biaya npc,15
+325,harganya national programming contest berapa ya,biaya npc,15
+326,berapa yang harus dibayar untuk daftar national programming contest,biaya npc,15
+327,berapa yang harus dibayar untuk daftar npc,biaya npc,15
+328,biaya npc,biaya npc,15
+329,biaya national programming contest,biaya npc,15
+330,harga npc,biaya npc,15
+331,harga national programming contest,biaya npc,15
+332,berapa ratus ribu uang yang harus dibayarkan untuk npc,biaya npc,15
+333,berapa ratus ribu uang yang harus dibayarkan untuk national programming contest,biaya npc,15
+334,saya sudah daftar tapi pendaftaran saya berlum terverifikasi kenapa ya,belum verifikasi,16
+335,belum terverifikasi,belum verifikasi,16
+336,verifikasi saya belum berhasil,belum verifikasi,16
+337,mengapa verifikasi pendaftaran nlc saya belum juga,belum verifikasi,16
+338,mengapa verifikasi pendaftaran national logic competition saya belum,belum verifikasi,16
+339,verifikasinya berapa lama,belum verifikasi,16
+340,apakah verifikasinya membutuhkan waktu yang lama,belum verifikasi,16
+341,mengapa kelompok saya belum terverifikasi,belum verifikasi,16
+342,mengapa kelompok saya belum terverifikasi padahal saya sudah bayar sejak lama,belum verifikasi,16
+343,apakah saya sudah terverifikasi,belum verifikasi,16
+344,apakah transfer uang saya sudah diterima,belum verifikasi,16
+345,apakah pembayaran transfer saya sudah berhasil,belum verifikasi,16
+346,saya sudah transfer sejak pagi apakah sudah diterima,belum verifikasi,16
+347,berapa lama kira-kira transfer uang untuk pendaftaran saya diverifikasi,belum verifikasi,16
+348,verifikasi pendaftaran,belum verifikasi,16
+349,verifikasi,belum verifikasi,16
+350,apakah national logic competition bisa pindah region,pindah region nlc,17
+351,apakah nlc bisa pindah region,pindah region nlc,17
+352,saya mendaftar nlc online apa perlu untuk memilih region,pindah region nlc,17
+353,say amendaftar nlc secara online apakah bisa pindah offline dengan memilih region,pindah region nlc,17
+354,aturan region nlc,pindah region nlc,17
+355,aturan region national logic competition,pindah region nlc,17
+356,adakah aturan region nlc,pindah region nlc,17
+357,adakah aturan region national logic competition,pindah region nlc,17
+358,saya mau pindah region nlc,pindah region nlc,17
+359,saya mau pindah region national logic competition,pindah region nlc,17
+360,bagaimana caranya pindah region di nlc,pindah region nlc,17
+361,bagaimana caranya pindah region national logic competition,pindah region nlc,17
+362,jumlah kelompok nlc,jumlah kelompok,18
+363,jumlah kelompok national logic competition,jumlah kelompok,18
+364,bolehkah kelompok national logic competition  dua orang,jumlah kelompok,18
+365,bolehkan kelompok national logic competition lebih dari satu orang,jumlah kelompok,18
+366,kelompok nlc,jumlah kelompok,18
+367,grup nlc,jumlah kelompok,18
+368,grup national logic competition,jumlah kelompok,18
+369,saya ingin bentuk kelompok lebih dari boleh tidak,jumlah kelompok,18
+370,apakah boleh kelompok national logic competition kurang dari tiga orang,jumlah kelompok,18
+371,apakah boleh nlc kelompoknya dari sekolah yang berbeda,jumlah kelompok,18
+372,national logic competition apakah kelompoknya harus dari sekolah yang sama,jumlah kelompok,18
+373,nlc apakah kelompoknya dari sekolah yang sama',jumlah kelompok,18
+374,grup dari sekolah yang berbeda,jumlah kelompok,18
+375,sekolah yang berbeda,jumlah kelompok,18
+376,berapa jumlah kelompok npc,jumlah kelompok,18
+377,bolehkan national programming contest lebih dari satu orang,jumlah kelompok,18
+378,apakah npc boleh ikut lebih dari satu orang,jumlah kelompok,18
+379,national programming contest perorangan atau bagaimana,jumlah kelompok,18
+380,npc perorangan atau bagaimana,jumlah kelompok,18
+381,npc hanya satu orang saja ya,jumlah kelompok,18
+382,apakah boleh lebih dari satu,jumlah kelompok,18
+383,apakah boleh kurang dari tiga,jumlah kelompok,18
+384,mengapa sertifikat saya tidak kunjung datang ya,sertifikat tidak datang,19
+385,sudah seminggu saya ikut nlc tetapi sertifikat saya belum dikirim juga,sertifikat tidak datang,19
+386,sudah lama saya ikut npc tetapi sertifikat saya belum datang juga,sertifikat tidak datang,19
+387,mengapa sertifikat lama sekali,sertifikat tidak datang,19
+388,apakah sertifikat akan segera dikirim,sertifikat tidak datang,19
+389,sertifikat,sertifikat tidak datang,19
+390,sertifikat saya mana,sertifikat tidak datang,19
+391,kapan sertifikat saya datang,sertifikat tidak datang,19
+392,kapan sertifikat saya dan kelompok saya datang,sertifikat tidak datang,19
+393,sertifikat national logic competition,sertifikat tidak datang,19
+394,sertifikat national programming contest,sertifikat tidak datang,19
+395,saya sudah ikut lomba dan tereleminas pada babak mengapa sertifikat saya tidak kunjung datang,sertifikat tidak datang,19
+396,mohon sertifikat saya dipercepat karena saya ada sekian,sertifikat tidak datang,19
+397,mohon sertifikat kelompok saya segera dikirim,sertifikat tidak datang,19
+398,apakah nst masih ada tiket,tiket nst,20
+399,apakah tiket national seminar of technology masih ada,tiket nst,20
+400,tiket nst sudah sold out belum,tiket nst,20
+401,apakah tiket nst sudah sold out,tiket nst,20
+402,saya dengar tiketnya nst sudah sold out ya,tiket nst,20
+403,apakah benar tiket nst sudah terjual semua,tiket nst,20
+404,tiket nst sudah terjual semua apa belum,tiket nst,20
+405,tiket national seminar of technology sudah terjual semua belum sih,tiket nst,20
+406,apakah masih ada tiket nst,tiket nst,20
+407,mau cek tiket nst masih ada atau tidak,tiket nst,20
+408,harga tiket nst,biaya nst,25
+409,harga tiket national seminar of technology schematics,biaya nst,25
+410,berapa harga tiketnya nst,biaya nst,25
+411,info harga tiket nst dong,biaya nst,25
+412,info harga tiket nst,biaya nst,25
+413,harga tiket reeva,biaya reeva,24
+414,berapa harga tiketnya reeva sekarang,biaya reeva,24
+415,info harga tiket reeva dong,biaya reeva,24
+416,harga tiket revolutionary expo and expo with various arts,biaya reeva,24
+417,pembicara nst siapa,bintang tamu nst dan reeva,26
+418,siapa pembicara di national seminar of technology,bintang tamu nst dan reeva,26
+419,guest star reeva siapa,bintang tamu nst dan reeva,26
+420,pembicara nst darimana,bintang tamu nst dan reeva,26
+421,bintang tamu reeva,bintang tamu nst dan reeva,26
+422,kapan pengumuman nlc,pengumuman nlc npc,21
+423,kapan pengumuman npc,pengumuman nlc npc,21
+424,kapan pengumuman national logic competition,pengumuman nlc npc,21
+425,kapan pengumuman national programming contest,pengumuman nlc npc,21
+426,info pengumuman hasil dong,pengumuman nlc npc,21
+427,pengumuman nlc kapan ya,pengumuman nlc npc,21
+428,kalau boleh tau kapan ya pengumuman npc,pengumuman nlc npc,21
+429,npc pengumumannya kapan ya kalau boleh tau,pengumuman nlc npc,21
+430,apakah sudah ada informasi pengumuman nlc,pengumuman nlc npc,21
+431,apakah sudah ada informasi pengumuman national logic competition,pengumuman nlc npc,21
+432,apakah sudah ada informasi pengumuman national programming contest,pengumuman nlc npc,21
+433,apa benar pengumuman nlc minggu depan,pengumuman nlc npc,21
+434,apa benar pengumuman npc minggu depan,pengumuman nlc npc,21
+435,dimana saya bisa tau pengumuman nlc ya,pengumuman nlc npc,21
+436,dimana saya bisa tau pengumuman npc ya,pengumuman nlc npc,21
+437,informasi pengumuman bisa diakses dimana ya,pengumuman nlc npc,21
+438,informasi pengumuman nlc bisa diakses dimana ya,pengumuman nlc npc,21
+439,informasi pengumuman bisa didapat dimana ya,pengumuman nlc npc,21
+440,dimana saya bisa dapat informasi pengumuman nlc,pengumuman nlc npc,21
+441,dimana saya bisa dapat informasi pengumuman npc ya,pengumuman nlc npc,21
+442,saya lihat di web pengumuman nlc belum ada,pengumuman nlc npc,21
+443,saya lihat di web belum ada pengumuman npc,pengumuman nlc npc,21
+444,apakah ketika lomba nanti harus pakai seragam,aturan seragam,22
+445,pake seragam tidak,aturan seragam,22
+446,apa harus menggunakan seragam sekolah,aturan seragam,22
+447,baju apa yang digunakan saat lomba nanti,aturan seragam,22
+448,apakah boleh menggunakan baju bebas,aturan seragam,22
+449,baju apa yang dikenakan saat nlc,aturan seragam,22
+450,baju apa yang dikenakan saat npc,aturan seragam,22
+451,apakah harus menggunakan seragam putih abu-abu untuk ikut national logic competition,aturan seragam,22
+452,bagaimana jika saya menggunakan baju bebas,aturan seragam,22
+453,apakah boleh menggunakan baju bebas,aturan seragam,22
+454,pakaian bebas,aturan seragam,22
+455,seragam sekolah,aturan seragam,22
+456,apakah harus menggunakan seragam sekolah,aturan seragam,22
+457,bagaimana jika saya tidak punya seragam sekolah,aturan seragam,22
+458,bagaimana jika saya kehilangan baju saya,aturan seragam,22
+459,harus menggunakan seragam,aturan seragam,22
+460,harus menggunakan baju bebas,aturan seragam,22
+461,saya hanya punya baju bebas,aturan seragam,22
+462,apakah boleh menggunakan pakaian bebas,aturan seragam,22
+463,apakah reeva masih ada tiket,tiket reeva,23
+464,apakah tiket reeva masih ada,tiket reeva,23
+465,apakah tiket revolutionary entertaiment and expo with various arts,tiket reeva,23
+466,tiket reeva sudah sold out belum,tiket reeva,23
+467,tiket reeva sudah terjual semua atau belum,tiket reeva,23
+468,tiket revolutionary expo and expo with various arts sudah terjual semua belum,tiket reeva,23
+469,tiket revolutionary expo and expo with various arts sudah sold out ya,tiket reeva,23
+470,apakah tiket reeva sudah sold out,tiket reeva,23
+471,saya dengar tiketnya reeva sudah sold out ya,tiket reeva,23
+472,apakah benar tiket reeva sudah terjual semua,tiket reeva,23
+473,mau cek tiket reeva masih ada atau tidak,tiket reeva,23

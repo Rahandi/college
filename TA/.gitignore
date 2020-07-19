@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+Data
+Model
+model_vgg_config.pickle
+__pycache__
+.vscode
